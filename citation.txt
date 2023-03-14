@@ -1,0 +1,6 @@
+@article{REPO-172,
+    author = "Baranchuk, Dmitry and Rubachev, Ivan and Voynov, Andrey and Khrulkov, Valentin and Babenko, Artem",
+    journal = "arXiv preprint arXiv:2112.03126",
+    title = "{Label-Efficient Semantic Segmentation with Diffusion Models}",
+    year = "2021"
+}
